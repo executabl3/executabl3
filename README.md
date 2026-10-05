@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amilcar, an <a href="[https://linkedin.com/in/Josh](https://www.linkedin.com/in/amilcar-bailey-3a9629421/?isSelfProfile=true)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Amilcar, an <a href="www.linkedin.com/in/amilcar-bailey-3a9629421">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
